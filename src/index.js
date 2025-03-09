@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter, Route, Redirect } from "react-router-dom";
-import AdminLayout from "layouts/Admin.js";
+import AdminLayout from "layouts/Admin";
 // Chakra imports
 import { ChakraProvider, ColorModeScript } from "@chakra-ui/react";
 // Custom Chakra theme
-import theme from "theme/theme.js";
+import theme from "theme/theme";
 
 ReactDOM.render(
   <ChakraProvider theme={theme} resetCss={false}>

@@ -1,6 +1,6 @@
 // import
 import React from 'react';
-import Dashboard from "views/Dashboard/Dashboard.js";
+import Dashboard from "views/Dashboard/Dashboard";
 import { HomeIcon } from "components/Icons/Icons";
 
 var dashRoutes = [

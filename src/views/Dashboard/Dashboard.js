@@ -53,7 +53,7 @@ import {
   FiMessageSquare, 
   FiCoffee, 
   FiBook, 
-  FiBluetooth, 
+  FiBluetooth,
   FiWifi,
   FiActivity
 } from "react-icons/fi";
