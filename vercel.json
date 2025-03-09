@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "node setup.js && npm install --force && npm run build",
+  "outputDirectory": "build",
+  "framework": "create-react-app",
+  "installCommand": "echo 'Skipping default install'"
+} 
