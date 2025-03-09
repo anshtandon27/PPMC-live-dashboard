@@ -70,12 +70,16 @@ export const barChartOptions = {
 
 export const lineChartData = [
   {
-    name: "Mobile apps",
-    data: [50, 40, 300, 220, 500, 250, 400, 230, 500],
+    name: "Acute Care",
+    data: [30, 32, 35, 40, 45, 42, 38, 35, 42],
   },
   {
-    name: "Websites",
-    data: [30, 90, 40, 140, 290, 290, 340, 230, 400],
+    name: "Super Track",
+    data: [20, 25, 22, 18, 15, 18, 22, 25, 23],
+  },
+  {
+    name: "Forward Flow",
+    data: [15, 18, 20, 22, 25, 23, 20, 18, 16],
   },
 ];
 
